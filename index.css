@@ -4,3 +4,7 @@
 #parent{
   display: flex;
 }
+
+.heading{
+  color: brown;
+}
